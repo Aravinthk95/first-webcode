@@ -1,0 +1,52 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    background-color: antiquewhite;
+    color: crimson;
+    font-size: 60px;
+    margin: 50px;
+}
+
+button{
+    background-color: darkcyan;
+    color:honeydew;
+    font-size: 60px;
+    margin: 20px;
+
+}
+
+button:hover{
+    background-color: cornsilk;
+    color: brown;
+    box-shadow: 10px purple;
+}
+
+.card{
+   width:30rem;
+   height: 50rem;
+}
+
+
+.carbotitle{
+  font-size: larger;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 100;
+}
+
+.ima{
+    height: 30rem;
+}
+
+.par{
+
+    font-size:xx-large;
+    font-weight: 100;
+}
+
+.carbo{
+    height: 23rem;
+    width:25rem;
+}
